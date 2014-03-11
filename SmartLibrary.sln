@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLibraryLib", "SmartLibraryLib\SmartLibraryLib.csproj", "{D367A0F5-F881-4EC8-80AA-22FFBA9A91D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLibraryServer", "SmartLibraryServer\SmartLibraryServer.csproj", "{AA41CD73-B44F-4C87-B177-1FD9D2160AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D367A0F5-F881-4EC8-80AA-22FFBA9A91D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D367A0F5-F881-4EC8-80AA-22FFBA9A91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D367A0F5-F881-4EC8-80AA-22FFBA9A91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D367A0F5-F881-4EC8-80AA-22FFBA9A91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA41CD73-B44F-4C87-B177-1FD9D2160AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA41CD73-B44F-4C87-B177-1FD9D2160AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA41CD73-B44F-4C87-B177-1FD9D2160AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA41CD73-B44F-4C87-B177-1FD9D2160AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
